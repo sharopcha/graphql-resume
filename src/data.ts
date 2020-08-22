@@ -1,14 +1,18 @@
 export const data = {
   bio: {
-    name: 'Leigh Halliday',
+    name: 'Azizmatov Sharofiddin',
     tagline: 'Full-Stack Developer',
-    email: 'leigh@email.com',
-    github: 'https://github.com/leighhalliday',
-    website: 'https://www.leighhalliday.com',
-    linkedin: 'https://linkedin.com/in/leigh-halliday',
+    email: 'azizmatov1202@email.com',
+    github: 'https://github.com/sharopcha',
+    website: 'https://www.sharopcha.com',
+    linkedin: 'https://linkedin.com/in/azizmatov-sharofiddin',
     objective: 'To build the greatest YouTube tutorials.',
   },
-  skills: ['Speaking Spanish', 'Certified coffee grower', 'Visual Basic 6'],
+  skills: [
+    'Speaking Turkish, English, Romanian, Russian, Persian',
+    'Certified coffee grower',
+    'Visual Basic 6',
+  ],
   positions: [
     {
       id: '1',
